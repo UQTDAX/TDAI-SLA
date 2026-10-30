@@ -1,2 +1,4 @@
 google-cloud-bigquery
 python-dotenv
+pandas
+scikit-learn
